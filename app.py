@@ -15,7 +15,7 @@ from collections import OrderedDict
 app = Flask(__name__)
 
 # ✅ Valid API keys
-VALID_API_KEYS = {
+VALID_API_KEYS = {https://like-bot-hazel.vercel.app/
     "ZEXXY"  # don't change warna api or bot dono nhi chalega 
 }
 
